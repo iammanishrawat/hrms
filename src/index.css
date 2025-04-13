@@ -1,1 +1,13 @@
 @import 'tailwindcss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'paragraphMedium';
+}
+
+@font-face {
+  font-family: 'paragraphMedium';
+  src: url('../src/assets/fonts/DM_Sans/static/DMSans-Medium.ttf');
+}
