@@ -1,5 +1,9 @@
 @import 'tailwindcss';
 
+@theme {
+  --color-mint-500: #c6538c;
+}
+
 * {
   margin: 0;
   padding: 0;
